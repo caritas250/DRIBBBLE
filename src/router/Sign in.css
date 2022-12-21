@@ -1,0 +1,54 @@
+.formlog{
+    display: flex;
+    flex-direction: column;
+    position: absolute;
+    left: 30%;
+    top: 27%;
+
+    
+}
+.formlog input{
+    padding: 10px;
+    margin: 2px;
+    border: 1px solid rgb(231, 74, 134);
+    border-radius: 10px;
+    font-size: 10px;
+   
+}
+.pswd{
+    text-decoration: none;
+    color: #0e72ba;
+    margin-left: 60%;
+    margin-top: 2px;
+    font-size: 12px;
+    font-weight: bold;
+
+}
+
+.buto{
+    color:white;
+    font-weight: bolder;
+    border: none;
+    background-color: rgb(203, 53, 111);
+    border-radius: 10px;
+    padding: 10px;
+    margin-top: 40px;
+    height: 30px; 
+    width: 250px;
+    font-size: 12px;
+    align-content: center;
+}
+.mmbr{
+    font-size: 12px;
+    font-weight: bold;
+    text-align: center;
+    color: whitesmoke;
+   margin-top: 5px;
+}
+.create{
+    color:#0e72ba;
+    font-weight: bolder;
+    text-decoration: none;
+    font-size: 13px;
+    margin: 5px;
+}

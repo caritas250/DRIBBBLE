@@ -1,0 +1,26 @@
+.last1{
+    width: 100%;
+   
+}
+.para{
+    position: absolute;
+    left: 16%;
+    color:white;
+    font-size: 13px;
+    padding-top:1%;
+}
+.boto{
+    position: absolute;
+    left: 30%;
+    
+}
+.last {
+    padding: 7px;
+    margin: 3px;
+    width: max-content;
+    font-size: 10px;
+    border: 1px solid  black;
+    border-radius: 18px;
+    background-color:   #e4f0fe;
+    color: black;
+}

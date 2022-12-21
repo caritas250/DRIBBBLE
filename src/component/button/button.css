@@ -1,0 +1,55 @@
+.form{
+    width: 100%;
+    height: calc(100% - 14%);
+    position: absolute;
+    top: 15%;
+    margin: 3%;
+    
+}
+
+
+.leaner{
+    display: flex;
+    flex-direction: row;
+    height: 17%;
+    width: 100%;
+    margin-left: 7%;
+    
+       
+}
+
+.learn1{
+    margin-top: 3%;
+    background-color: white;
+    border-radius: 30px;
+    padding: 5px;
+    font-weight: bold;
+    border: none;
+    font-size: 10px;
+    width: max-content;
+    
+}
+.learn{
+    margin: 5px;
+    margin-top: 3%;
+    color: white;
+   
+    border-radius: 30px;
+    background-color: #0e72ba;
+    padding: 5px;
+    font-size: 10px;
+    width: max-content;
+    border: none;   
+}
+
+.middlebtn{
+width: 100%;
+    
+}
+
+.lastbtn{
+    width: 100%;
+    position: absolute;
+    bottom: 28%;
+    
+}
